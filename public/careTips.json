@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"image": "🧥",
+		"title": "Dress for the Weather",
+		"description": "Short-haired breeds need extra protection from cold. Consider sweaters or coats for outdoor activities."
+	},
+	{
+		"id": 2,
+		"image": "🐾",
+		"title": "Protect Those Paws",
+		"description": "Ice, snow, and salt can damage paw pads. Use paw balm and consider booties for walks."
+	},
+	{
+		"id": 3,
+		"image": "💧",
+		"title": "Stay Hydrated",
+		"description": "Pets can dehydrate in winter too! Ensure fresh water is always available."
+	},
+	{
+		"id": 4,
+		"image": "🏠",
+		"title": "Warm Shelter",
+		"description": "Keep indoor temperatures comfortable and provide cozy sleeping areas away from drafts."
+	}
+]

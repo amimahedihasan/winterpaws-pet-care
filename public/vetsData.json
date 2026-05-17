@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"name": "Dr. Sarah Mitchell",
+		"specialty": "Winter Pet Wellness",
+		"experience_years": 12,
+		"image": "https://i.ibb.co.com/7xMSNQPN/vets-one.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Dr. James Cooper",
+		"specialty": "Cold Weather Care",
+		"experience_years": 15,
+		"image": "https://i.ibb.co.com/b83bR7x/vets-two.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Dr. Emily Rodriguez",
+		"specialty": "Pet Nutrition",
+		"experience_years": 10,
+		"image": "https://i.ibb.co.com/Jw3ntyrz/vets-three.jpg"
+	}
+]

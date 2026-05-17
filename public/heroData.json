@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"image": "https://i.ibb.co.com/Gv6XQrFk/pet-one.jpg",
+		"title": "Keep Your Pets Cozy This Winter",
+		"subTitle": "Expert care, warm clothing, and wellness services for your furry"
+	},
+	{
+		"id": 2,
+		"image": "https://i.ibb.co.com/0p6C90gb/pet-two.jpg",
+		"title": "Professional Pet Grooming For Winter",
+		"subTitle": "Specialized treatments to protect against cold weather"
+	},
+	{
+		"id": 3,
+		"image": "https://i.ibb.co.com/m5KVnHwW/pett-three.jpg",
+		"title": "Indoor Pet Play And Exercise Fun",
+		"subTitle": "Keep your pets active and happy even on the coldest days"
+	}
+]

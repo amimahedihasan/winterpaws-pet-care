@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+@import "tailwindcss";
+@plugin "daisyui" {
+	themes: light --default;
+}
+
+body {
+	font-family: "Inter", sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #132639;
+}
+
+.container {
+	margin: auto;
+	padding: 0 15px;
+}
+
+button {
+	cursor: pointer;
+}
+
+.menu-horizontal {
+	gap: 20px;
+}
+
+.menu-horizontal li a {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.menu-horizontal li a.active {
+	border-bottom: 1px solid #1773cf;
+	border-radius: 0;
+	color: #1773cf;
+}
+
+.follow-us {
+	@apply w-10 h-10 rounded-full flex items-center justify-center bg-[#eeebe8] hover:bg-[#1773CF] transition-all duration-300 cursor-pointer;
+}
+
+.view-details {
+	@apply w-full py-2 text-white flex items-center justify-center gap-2 whitespace-nowrap rounded-md font-medium bg-[#1773cf];
+}
+
+.border {
+	@apply rounded-lg border border-[#E0DAD1];
+}
