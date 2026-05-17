@@ -27,6 +27,9 @@ A cozy, modern, and approachably designed winter companion platform built for pe
 - **Advanced Profile Management & Password Reset Challenges:**
   - Fully functional profile updates (`updateProfile`) for instantaneous global navbar status changes.
   - Interactive Forgot Password sequence that securely transfers typed login emails directly to the reset pane and forwards onto Gmail seamlessly.
+
+
+  
 - **SPA Routing Stability:** Built-in Firebase rewrite rule structures ensuring absolutely **zero 404 crash errors on route reloads**.
 
 ---
