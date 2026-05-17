@@ -6,14 +6,6 @@
 
 A cozy winter companion platform designed for pet owners to ensure their furry friends stay warm, safe, and healthy during the cold season.
 
----
-
-
----
-
-### Key Features👇
-
-#### Home Page:
 
 -   In the header, there is a logo, a menu, and a login button, with the active route highlighted in the menu.
 
